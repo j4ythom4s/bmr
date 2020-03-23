@@ -1,0 +1,49 @@
+.jumbotron {
+    text-align: center;
+    width: 100%;
+    margin: auto;
+}
+
+#return-change-button{
+    width: 95%;
+}
+
+#change-input-box{
+    width: 95%;
+}
+
+.btn-secondary {
+    margin: 2px;
+}
+
+#item-label{
+    margin-left: 2%;
+}
+
+#vending-message{
+    width: 95%;
+}
+
+.vending-card{
+    text-align: center; 
+    margin-bottom: 30px; 
+    margin-top: 30px; 
+    min-width: 25rem; 
+    max-width: 25rem;
+}
+
+#item-to-vend{
+    margin-top: 10px;
+    margin-left: 50px;
+    width: 145%;
+}
+
+.vending-items{
+    margin-left: 2%;
+    margin-right: 2%;
+    padding: 5px;
+}
+
+.form-group{
+    margin-left: 2%;
+}
